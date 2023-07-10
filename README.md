@@ -4,12 +4,12 @@ To achieve proficiency in data science and machine learning, follow this structu
 
 - [1. Getting started](#1-getting-started)
   - [1.1. **Prerequesties**](#11-prerequesties)
-    - [1.1.1. **Mathematics Fundamentals:**](#111-1-mathematics-fundamentals)
-    - [1.1.2. **Programming with Python and Libraries:**](#112-2-programming-with-python-and-libraries)
-    - [1.1.3. **Machine Learning Algorithms:**](#113-3-machine-learning-algorithms)
-    - [1.1.4. **Data Preprocessing:**](#114-4-data-preprocessing)
-    - [1.1.5. **Machine Learning Libraries:**](#115-5-machine-learning-libraries)
-    - [1.1.6. **Practical Experience:**](#116-6-practical-experience)
+    - [1.1.1. **Mathematics Fundamentals:**](#111-mathematics-fundamentals)
+    - [1.1.2. **Programming with Python and Libraries:**](#112-programming-with-python-and-libraries)
+    - [1.1.3. **Machine Learning Algorithms:**](#113-machine-learning-algorithms)
+    - [1.1.4. **Data Preprocessing:**](#114-data-preprocessing)
+    - [1.1.5. **Machine Learning Libraries:**](#115-machine-learning-libraries)
+    - [1.1.6. **Practical Experience:**](#116-practical-experience)
   - [1.2. *Resources:*](#12-resources)
 
 # 1. Getting started
